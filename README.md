@@ -6,7 +6,7 @@ Currently I work as a Content Distribution Analyst at [@rockcontent](https://www
 
 I like running in the morning (willing to be part of the 5AM club), reading books and learning new things (specially languages and technology tools 🇧🇷🇺🇲🇲🇽🇫🇷).
 
-I can help you with: <b>HTML, CSS, Java, PHP and WordPress</b>.</p>
+I can help you with: <b>HTML, CSS, WordPress, Java and PHP</b>.</p>
 
 <h2>Projects:</h2>
 
