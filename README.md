@@ -4,7 +4,7 @@
 
 Currently I work as a Content Distribution Analyst at [@rockcontent](https://www.rockcontent.com) <img src = "https://drive.google.com/uc?id=1mCRueB_HsBb457ZPpX8VOJzD2TkMkdd8" width = "20px" height = "20px" alt = "Rock Content logo">.
 
-I like running in the morning (willing to be part of the 5AM club), reading books and learning new things (specially languages and technology tools 🇧🇷🇺🇲🇲🇽🇫🇷).
+I like running in the morning (willing to be part of the 5AM club), reading books and learning new things (specially languages 🇧🇷🇺🇲🇲🇽🇫🇷 and technology tools).
 
 I can help you with: <b>HTML, CSS, WordPress, Java and PHP</b>.</p>
 
