@@ -17,4 +17,5 @@ I can help you with: <b>HTML, CSS, WordPress, Java and PHP</b>.</p>
 <h2>Social media:</h2><p>
   <a href = "https://www.linkedin.com/in/caio-henrique-azevedo-ferreira/">LinkedIn <img src = "https://drive.google.com/uc?id=1yUgrsXt2huVHfqtUWemjhFsnSl4qSEz9" width = "20px" height = "20px" alt = "LinkedIn"></a>;
   <br><a href = "mailto:caiolee01@hotmail.com">E-mail ✉️</a>.
+  <br><a href = "https://www.behance.net/caioh-ferreira">Behance <img src = "https://drive.google.com/uc?id=1vVh_a9t-1abYyezICGuHlXAtv4UyA--c" width = "20px" height = "20px" alt = "Behance"></a>
 </p>
