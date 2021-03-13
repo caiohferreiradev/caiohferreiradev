@@ -11,7 +11,7 @@ I can help you with: <b>HTML, CSS, WordPress, Java and PHP</b>.</p>
 <h2>Projects:</h2>
 
 <p>
-  <a href = "https://www.teste.com.br">Website</a> 💻  - I present all of my projects in this website;
+  <a href = "https://www.caiohferreira.com.br">Website</a> 💻  - I present all of my projects in this website;
   <br><a href = "https://www.caiohferreira.com.br">Blog</a> <b>[In Portuguese]</b> - You can find some contents about technology, development and marketing stuff (under development).
 </p>
 <h2>Social media:</h2><p>
