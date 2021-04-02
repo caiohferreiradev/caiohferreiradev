@@ -12,7 +12,7 @@ I can help you with: <b>HTML, CSS, Bootstrap, jQuery, WordPress, Java and PHP</b
 
 <p>
   <a href = "https://www.caiohferreira.com.br">Website</a> 💻  - I present all of my projects in this website;
-  <br><a href = "https://www.caiohferreira.com.br">Blog</a> <b>[In Portuguese]</b> - You can find some contents about technology, development and marketing stuff (under development).
+  <br><a href = "https://caioh-ferreira.medium.com/">Medium</a> <b>[In Portuguese]</b> - You can find some contents about technology, development and marketing stuff.
 </p>
 <h2>Contact info:</h2><p>
   <a href = "https://www.linkedin.com/in/caio-henrique-azevedo-ferreira/">LinkedIn <img src = "https://drive.google.com/uc?id=1yUgrsXt2huVHfqtUWemjhFsnSl4qSEz9" width = "20px" height = "20px" alt = "LinkedIn"></a>;
