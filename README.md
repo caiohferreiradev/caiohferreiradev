@@ -8,7 +8,7 @@ I like to run 🏃‍♂️, a good coffee and learn new stuff (specially langua
 
 I can help you with: <b>PHP, JavaScript and WordPress</b>.</p>
 
-<h2>Get in touch with me with through the links below.</h2>
+<h2>Get in touch with me  through the links below.</h2>
 
 <p>
   <a href = "https://www.caiohferreira.com.br">Website</a> 💻  - I present all  my portfolio on this website;
