@@ -4,7 +4,7 @@
 
 Currently I work as a Web Developer at [@rockcontent](https://www.rockcontent.com) <img src = "https://drive.google.com/uc?id=1mCRueB_HsBb457ZPpX8VOJzD2TkMkdd8" width = "20px" height = "20px" alt = "Rock Content logo">, a leading company in content marketing in Americas developing experiences on WordPress such as content hubs, blogs and websites that contributes to generate digital revenue to customers in different segments, sizes and nationalities.
 
-I like running, a good coffee and learning new stuff (specially languages 🇧🇷🇺🇲🇲🇽🇫🇷).
+I like to run 🏃‍♂️, a good coffee and learn new stuff (specially languages).
 
 I can help you with: <b>PHP, JavaScript and WordPress</b>.</p>
 
