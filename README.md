@@ -1,6 +1,6 @@
 <h1>Hey, folks!<img src = "https://drive.google.com/uc?id=12sAVNlfxNCd5AePeGpzf80bebVD6DUf9" width = "25px" height = "25px"></h1>
 
-<p>My name is Caio, I'm a Computer Science student at <a href = "https://iu.org">IU</a> <img src = "https://www.cornerstone.edu.in/wp-content/uploads/2022/05/iu_Logo_EN_white_RGB_horizontal.png" width = "30px" height = "10px" alt = "IU logo">.
+<p>My name is Caio, I'm a Computer Science student at <a href = "https://iu.org">IU</a> <img src = "https://www.cornerstone.edu.in/wp-content/uploads/2022/05/iu_Logo_EN_white_RGB_horizontal.png" width = "50px" height = "17px" alt = "IU logo">.
 
 Currently I work as a Web Developer at [@NinjaOne](https://ninjaone.com) developing experiences on WordPress.
 
