@@ -16,7 +16,7 @@ I can help you with: <b>PHP, JavaScript and WordPress</b>.</p>
 </p>
 <h2>Contact info:</h2><p>
   <a href = "https://www.linkedin.com/in/caio-henrique-azevedo-ferreira/">LinkedIn</a>;
-    <br><a href = "https://profiles.wordpress.org/caiohferreira/">WordPress.org</a>;
+    <br><a href = "https://profiles.wordpress.org/caiohferreira/">WordPress.org profile</a>;
     <br><a href = "https://twitter.com/caioh_ferreira">Twitter</a>;
   <br><a href = "mailto:caiohferreiradev@gmail.com">E-mail</a>.
 </p>
