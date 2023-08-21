@@ -12,7 +12,7 @@ I'm **Caio Ferreira**, a passionate Web Developer hailing from the beautiful cit
 
 - 🌐 With fluency in English, Portuguese, and Spanish, I pride myself on delivering personalized services to a diverse clientele across the Americas.
 
-- ✍️ I write [blogs](https://www.caiohferreira.com.br/blog) (mostly in Portuguese) about WordPress, career development, and technology. Check them out!
+- ✍️ I write some [articles](https://www.caiohferreira.com.br/blog) (mostly in Portuguese) about WordPress, career development, and technology. Check them out!
 
 ## 🛠 Skills
 
