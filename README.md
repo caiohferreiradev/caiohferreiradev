@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/caioh_ferreira" target="blank"><img src="https://img.shields.io/twitter/follow/caioh_ferreira?logo=twitter&style=for-the-badge" alt="caioh_ferreira" /></a> </p>
 
-- 🔭 I’m currently working on **NinjaOne**
+- 🔭 I’m currently working on <a href="http://ninjaone.com/">**NinjaOne**</a>
 
 - 🌱 I’m currently learning **React, AWS**
 
@@ -39,4 +39,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/caiohferreira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="caiohferreira" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohferreiradev&show_icons=true&locale=en&layout=compact" alt="caiohferreiradev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiohferreiradev&show_icons=true&locale=en&layout=compact" alt="caiohferreiradev" /></p>
