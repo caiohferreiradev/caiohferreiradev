@@ -2,7 +2,7 @@
 
 Here's a little more about me:
 
-1. I current work as a Web Developer at [FinancialCents](https://financial-cents.com/).
+1. I current work as a Web Developer at [Financial Cents](https://financial-cents.com/).
 2. With 5 years of experience on the WordPress field, and 4 with development. Before starting WordPress, I worked with a few other CMS on the market such as HubSpot, Joomla, AEM and others.
 3. In my opinion, websites should always be users, and SEO-centric.
 4. I make part of the [Belo Horizonte WordPress Community](https://www.meetup.com/wordpressbelohorizonte/) and shared a little on how WordPress helped shaping my career at [HeroPress](https://heropress.com/essays/how-wordpress-changed-my-life-gratitude/).
